@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: adolpho-web-service
+    name: adolpho-salvador
     env: node
     plan: free
     repo: https://github.com/AdolphoBorgesSalvador/Adolpho-Blueprints-Render
